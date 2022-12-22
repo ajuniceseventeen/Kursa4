@@ -484,7 +484,7 @@ input {
 .home {
     width: 100%;
     min-height: 440px;
-    background-image: url(/img/blog123.jpg);
+    background-image: url(img/blog123.jpg);
     display: grid;
     justify-content: center;
     align-items: center;
