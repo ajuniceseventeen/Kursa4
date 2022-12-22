@@ -708,6 +708,6 @@ figcaption {
 }
 
 .bck {
-    background-image: url(img/home3.jpg);
+    background-image: url(../img/home3.jpg);
     background-position: center 10%;
 }
